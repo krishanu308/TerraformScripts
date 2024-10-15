@@ -1,3 +1,3 @@
 output "test_message" {
-  value = "Terraform script is working in Jenkins!"
+  value = "Terraform script 1 single example with Jenkins!"
 }
