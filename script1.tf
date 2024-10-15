@@ -1,4 +1,3 @@
-$ terraform output script_one
-script_one = [
-  "First script ran successfully"
-]
+output "test_message" {
+  value = "Terraform script is working in Jenkins!"
+}
